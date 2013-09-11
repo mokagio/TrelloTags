@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "TrelloTags",
   "version": "0.1",
-  "description": "Use tags in your Trello cards",
+  "description": "Use tags in your Trello cards, because sometimes 6 labels are not enough.",
   "content_scripts": [
     {
       "matches": [ 
