@@ -16,5 +16,8 @@
         "trellotags.css"
       ]
     }
+  ],
+  "web_accessible_resources": [
+    "jquery-2.0.3.min.js"
   ]
 }

@@ -1,0 +1,12 @@
+span.tt-tag {
+	background-color: #666;
+	color: white;
+	border: 1px solid #222;
+	
+	padding: 2px 4px;
+	font-size: 0.8em;
+	
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
