@@ -10,3 +10,7 @@ span.tt-tag {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
+
+span.tt-tag:first-child {
+	margin-left: 8px;
+}
